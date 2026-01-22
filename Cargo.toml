@@ -1,0 +1,12 @@
+[package]
+name = "githubclock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+dotenvy = "0.15"
+macroquad = "0.4"
+resvg = "0.43"
+ureq = "2.9"
+serde_json = "1.0"
